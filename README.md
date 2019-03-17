@@ -20,3 +20,6 @@ Please visit our Wiki [HERE](https://github.com/Jaram2019/ChromeExtention_Study/
 
 ## 4. Purpose
 Release our app to Chrome extention store or NAVER Whale Extention store.
+
+## 5. Contribution Rule
+You must sign-off every commits with GPG keys.
