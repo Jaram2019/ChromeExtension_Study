@@ -1,4 +1,4 @@
-# ChromeExtention_Study
+# ChromeExtension_Study
 2019년 1학기 오픈API를 활용한 웹 브라우저 확장프로그램 제작 스터디입니다.
 
 ### 1. Team members and Roles
@@ -13,7 +13,7 @@
 
 
 ### 2. Using stacks
-* Javascript
+* Javascript, HTML, CSS
 
 ## 3. Wikies
 Please visit our Wiki [HERE](https://github.com/Jaram2019/ChromeExtention_Study/wiki)
